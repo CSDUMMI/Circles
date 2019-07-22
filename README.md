@@ -12,11 +12,26 @@ should be developed and how they want to keep the network running.
 ## What decisions do networks currently make on their own?
 Before explaining how I want to develop a democratic network, we have to look
 at what decisions the companies running a network currently make:
-1. Budget decisions - Investments
-2. Income - Revenue
-3. Algorithmns - Optimizing for Profit / Attention
-4. Rights of the User - Terms of Use
+1. Budget decisions - Investments - what is worth to put money into?
+2. Income - Revenue - Where do we get money from?
+3. Algorithmns - Optimizing for Profit / Attention - How do we display our network?
+4. Rights of the User - Terms of Use - What can each User do, what are a users rights?
+
 I put the same thing into to different forms, so you might better understand what
 I mean by it.
-This is not a complete lists and can be appended 
-by points.
+This is not a complete lists and can be appended.
+ 
+## So how do you want to make a network democratic?
+Repeated elections are the base of democracy.
+But I don't want every user to vote on every issue,
+because not everybody can inform themselves on every issue,
+if they don't want to do something else still.
+Instead the user will elect a representation and this will vote on each
+issue. Only a few important decision should be made by popular vote.
+
+## The representation of the users
+The representation should be a group of elected users,
+which can decide upon issues by 2/3 Majority.
+
+## The Election of the representation
+I think that there will be 
