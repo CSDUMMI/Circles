@@ -50,3 +50,10 @@ This Question is very important and I want to draw a line, that should be easy t
 **The representation shouldn't change how they are elected**, so everything regarding
 elections must be changed by popular vote.
 
+## How do I plan to develop the Circles Network?
+I will try to develop the alpha version on my own and hopefully with some help from other developers.
+Later every patch, change, etc. has to be confirmed by the representation or the popular vote, meaning that 2/3 accept
+the proposal. Then the proposal, if it is a change to the code, is implemented in the running enviornment.
+If the proposal concerns the elections, these have to be accepted by popular vote, not the representation.
+I don't talk about implementation details, because I want to be free to create the best network alpha possible,
+before, after alpha the representation is first elected and takes up its job.
