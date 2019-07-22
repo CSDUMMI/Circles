@@ -32,6 +32,17 @@ issue. Only a few important decision should be made by popular vote.
 ## The representation of the users
 The representation should be a group of elected users,
 which can decide upon issues by 2/3 Majority.
+They can't make decisions about everything.
+They shall not be able to change the electoral
+rules.
 
 ## The Election of the representation
-I think that there will be 
+I think that there will be a group of users elected
+by a general election, which will be repeated after a defined
+period. The users will have one vote to elect one candidate and
+the most popular ones go to the representation.
+How many will be calculated by the number of users
+and every X users will get a new candidate.
+X should increase, proportionally to the number of users.
+
+##
