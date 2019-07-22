@@ -45,4 +45,8 @@ How many will be calculated by the number of users
 and every X users will get a new candidate.
 X should increase, proportionally to the number of users.
 
-##
+## What should be decided by the representation and what by popular vote?
+This Question is very important and I want to draw a line, that should be easy to understand:
+**The representation shouldn't change how they are elected**, so everything regarding
+elections must be changed by popular vote.
+
