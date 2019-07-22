@@ -1,22 +1,22 @@
 # Circles
-The Circles Network shall be a social, democratic, user controlled and based on the users will network.
+The Circles Network shall be a social, democratic, user controlled network.
 
-Todays networks through which the majority of the people connected
-to the world wide web interact with each other, are controlled by a single, profit oriented company,
-focused on making profit and thus keeping control of their users. 
+## Why should we let the users control a network?
+Todays networks are for me, what would be called a dictatorship,
+if it were a nation state.
+And it would be exploiting its citizens, which are the users.
+Circles shall thus be democratic, meaning that instead of the developers
+or a companies interest, users decide upon what they want to see, which features
+should be developed and how they want to keep the network running.
 
-They have control about your content, your experience of the network 
-and decide by hidden rules, what content to show to you.
-Because they are a profit oriented company, these rules and your experience
-of the network aims at making profit for the company.
-And not on informing you about your interests or
-creating a space to life and communicate in, if
-other content brings them more attention, profits and reach.
-
-We have seen that this control can't be in the interest of the public,
-because it can manipulate people and even be used to manipulate the democratic
-process of a sovereign nation.
-Thus I think we should take away the control of the network from such a profit oriented company
-and control it ourselves.
-We need to identifiy the different kinds of decisions these companies
-make in their network, to decide how to make these decisions later
+## What decisions do networks currently make on their own?
+Before explaining how I want to develop a democratic network, we have to look
+at what decisions the companies running a network currently make:
+1. Budget decisions - Investments
+2. Income - Revenue
+3. Algorithmns - Optimizing for Profit / Attention
+4. Rights of the User - Terms of Use
+I put the same thing into to different forms, so you might better understand what
+I mean by it.
+This is not a complete lists and can be appended 
+by points.
